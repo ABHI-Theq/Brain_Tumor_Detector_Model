@@ -103,7 +103,7 @@ The transfer learning model achieved high accuracy and precision on the test set
 
 ## 📬 Contact
 
-For any questions or collaborations, feel free to reach out via \[your email] or GitHub Issues.
+For any questions or collaborations, feel free to reach out via abhi03085e@gmail.com or GitHub Issues.
 
 ---
 
